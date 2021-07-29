@@ -1,20 +1,20 @@
 vw_gti = {
-  "Make" => "Volkswagon",
-  "Model" => "GTI",
-  "Year" => 2016,
-  "Transmision" => "Manual"
+  "make" => "Volkswagon",
+  "model" => "GTI",
+  "year" => 2016,
+  "transmision" => "Manual"
 }
 
 panda = {
-  "Name" => "Henry",
-  "Color" => ["Black", "White"],
-  "Is bear" => true,
-  "Is mammal" => true
+  "name" => "Henry",
+  "color" => ["Black", "White"],
+  "is_bear" => true,
+  "is_mammal" => true
 }
 
 customer = {
-  "Name" => "Johnny Appleseed"
-  "Age" => 26,
-  "Valuable customer" => true,
-  "Favorite product" => "Tacos"
+  "name" => "Johnny Appleseed"
+  "age" => 26,
+  "valuable_customer" => true,
+  "favorite_product" => "Tacos"
 }
